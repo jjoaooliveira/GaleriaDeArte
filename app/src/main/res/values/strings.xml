@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Galeria_de_Arte</string>
+    <string name="monstercat_blue">Monstercat Blue</string>
+    <string name="monstercat_blue_data">(2016)</string>
+    <string name="monstercat_red">Monstercat Red</string>
+    <string name="monstercat_red_data">(2015)</string>
+    <string name="monstercat_purple">Monstercat Purple</string>
+    <string name="monstercat_purple_data">(2017)</string>
+    <string name="monstercat_dual">Monstercat Dual</string>
+    <string name="monstercat_dual_data">(2019)</string>
+    <string name="monstercat">Monstercat</string>
+</resources>
